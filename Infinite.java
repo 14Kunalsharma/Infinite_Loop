@@ -1,4 +1,5 @@
 //Write an in infinite loop using do while condition.
+import java.util.*;
 class Infinite{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
